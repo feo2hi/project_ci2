@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="lib/ci1"
+           name="bnm4hi/project_ci1.git" remote="origin" />
+
+
+  <project path="lib/ci2"
+           name="bnm4hi/project_ci2.git" remote="origin" />
+
+</manifest>
+
