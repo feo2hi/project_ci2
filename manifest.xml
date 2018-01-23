@@ -6,9 +6,11 @@
   <project path="lib/ci1"
            name="bnm4hi/project_ci1.git" remote="origin" />
 
-
   <project path="lib/ci3"
-           name="bnm4hi/project_ci3.git" remote="origin" />
+           name="feo2hi/project_ci3.git" remote="origin" /-->
+
+  <!--project path="lib/ci3"
+           name="bnm4hi/project_ci3.git" remote="origin" /-->
 
 </manifest>
 
