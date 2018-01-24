@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com" />
+  <default revision="master" remote="origin" />
+
+  <project path="lib/ci1"  name="bnm4hi/project_ci1.git" />
+  <project path="lib/ci3"  name="feo2hi/project_ci3.git" />
+
+</manifest>
+
